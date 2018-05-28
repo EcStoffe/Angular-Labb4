@@ -1,0 +1,14 @@
+.container {
+    width: 33.333%;
+    margin: auto;
+}
+
+.status {
+    display: flex;
+    justify-content: space-between;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
